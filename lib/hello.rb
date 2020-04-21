@@ -4,6 +4,8 @@ def hello_t(array)
   while i < array.
     i = i + 1
   end
+  
+  array
 end
 
 # call your method here!
